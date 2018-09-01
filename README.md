@@ -14,3 +14,17 @@ First downlaod the code and the database:
 
 git clone https://github.com/Atlas9266/Pipeline-Differental-Expression-Genes-DGEs-.git
 
+Rscipt Deseq_pipeline.v1.1.R --help
+Error: At least two arguments must be supplied (input file).n
+Execution halted
+
+# Example 
+For example if you have two samples; one is control and the second one is case (eg UTIs). After successfully running this code, you will have a results in CSV:
+
+Rscript Deseq_pipeline.v1.1.R  2 sample1 sample2 Control Cases
+
+
+
+
+## Author
+Atlas Khan, Department of Medicine (Division Nephrology), Columbia University Medical Centre, New York, USA.
