@@ -5,6 +5,7 @@ We developed a pipeline for Differental Expression Genes (DGEs) based on DESeq (
 # Require R library
 
 DeSeq:  https://bioconductor.org/packages/release/bioc/html/DESeq.html
+
 Data.table: https://cran.r-project.org/web/packages/data.table/index.html
 
 
@@ -28,3 +29,5 @@ Rscript Deseq_pipeline.v1.1.R  2 sample1 sample2 Control Cases
 
 ## Author
 Atlas Khan, Department of Medicine (Division Nephrology), Columbia University Medical Centre, New York, USA.
+
+Email: atlas.akhan@gmail.com and ak4046@cumc.columbia.edu
