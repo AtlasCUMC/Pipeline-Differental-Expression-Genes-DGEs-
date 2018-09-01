@@ -12,3 +12,5 @@ Data.table: https://cran.r-project.org/web/packages/data.table/index.html
 
 First downlaod the code and the database:
 
+git clone https://github.com/Atlas9266/Pipeline-Differental-Expression-Genes-DGEs-.git
+
