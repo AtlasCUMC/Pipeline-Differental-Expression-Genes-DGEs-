@@ -1,6 +1,6 @@
 # Pipeline-Differental-Expression-Genes-DGEs-
 
-We developed a pipeline for Differental Expression Genes (DGEs) based on DESeq (https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-10-r106). We developed a R script to do a automatic analysis based on DESeq R library. It need only a count file with no header for sample of your interest.
+We developed a pipeline for Differental Expression Genes (DGEs) based on DESeq (https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-10-r106). We developed a R script to do a automatic analysis based on DESeq R library. It need only a count file with no header for samples of your interest.
 
 # Require R library
 
@@ -21,7 +21,7 @@ Error: At least two arguments must be supplied (input file).n
 Execution halted
 
 # Example 
-For example if you have two samples; one is control and the second one is case (eg UTIs). After successfully running this code, you will have a results in CSV:
+For example if you have two samples; one is control and the second one is case (eg UTIs). After successfully running this code, you will have results in CSV file in the same directory:
 
 Rscript Deseq_pipeline.v1.1.R  2 sample1 sample2 Control Cases
 
