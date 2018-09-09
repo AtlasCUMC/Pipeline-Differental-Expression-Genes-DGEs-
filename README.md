@@ -16,6 +16,7 @@ First downlaod the code and the database:
 git clone https://github.com/Atlas9266/Pipeline-Differental-Expression-Genes-DGEs-.git
 
 Rscipt Deseq_pipeline.v1.1.R --help
+
 Error: At least two arguments must be supplied (input file).n
 Execution halted
 
