@@ -24,7 +24,7 @@ git clone https://github.com/Atlas9266/Pipeline-Differental-Expression-Genes-DGE
 
 For example if you have two samples; one is control and the second one is case (eg UTIs). After successfully running this code, you will have results in CSV file in the same directory:
 
-    Rscript Deseq_pipeline.v1.1.R  2 sample1 sample2 Control Cases
+    Rscript Deseq_pipeline.v1.1.R  2 sample1 sample2 Control Case
 
 
 
